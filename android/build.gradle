@@ -1,1 +1,1 @@
-buildConfigField "String", "WEB_URL", '"https://talha-information-01.onrender.com/"'
+buildConfigField "String", "WEB_URL", "https://talha-information-01.onrender.com/"
